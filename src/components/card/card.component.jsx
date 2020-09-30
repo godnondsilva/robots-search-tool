@@ -10,7 +10,7 @@ export const Card = props => {
             <p>Username: {props.robot.username} </p>
             <p>Email: {props.robot.email} </p>
             <p>Phone: {props.robot.phone} </p>
-            <p>Website: {props.robot.website} </p>
+            <p>City: {props.robot.city} </p>
         </div>
     )
 }
